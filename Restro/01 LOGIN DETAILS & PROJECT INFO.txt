@@ -1,0 +1,13 @@
+**Database Name: rposystem**
+
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: eke@gmail.com
+Password: admin123
+
+
+
